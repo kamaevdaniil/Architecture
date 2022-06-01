@@ -1,0 +1,1 @@
+sudo ./build/server --host=127.0.0.1  --port=6033 --login=stud --password=stud --database=stud
